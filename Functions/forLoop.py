@@ -42,9 +42,9 @@ for i in range(1,11):
         break
     print(i,end=' ')
 
-for i in range(1,11):
+'''for i in range(1,11):
     if(i==5):
         pass
-    print(i,end=' ')
+    print(i,end=' ')'''
 
 
